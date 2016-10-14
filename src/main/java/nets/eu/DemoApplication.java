@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.print("Hello World 1.0.11");
+		System.out.print("Hello World 1.0.12");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
